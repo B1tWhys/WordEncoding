@@ -1,0 +1,5 @@
+encodingGen
+test*
+.gdb_history
+*.o
+dict.csv 
